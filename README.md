@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm youssef mohammed from egypt<br><br>- 🔭 I’m working as front end developer (react)<br>- 📚 I'm currently learning C++ and software engineering<br>- ⚡ In my free time I like to practice some problem solving</p>
+<p align="left">I'm youssef mohammed from egypt<br><br>- 🔭 I’m working as front end developer (react)<br>- 📚 I'm currently workimg on real world full stack web apps to gain more experience<br>- ⚡ In my free time I like to practice some problem solving</p>
 
 ###
 
@@ -44,6 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -65,12 +67,6 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YussefMo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
