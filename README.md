@@ -22,13 +22,11 @@
 
 ###
 
-<p align="left">Hello World!<br>👩‍💻 About Me<br>I'm youssef mohammed from egypt<br><br>- 🔭 I’m working as front end engineer (react - react native - next - expo)<br>- ⚡ In my free time I like to explore the ai field and ai agent cration and intgrate them in my apps<br><br>🛠 Language and tools</p>
+<p align="left">Hello World!<br>👩‍💻 About Me<br>I'm youssef mohammed from egypt<br><br>- 🔭 I’m working as front end engineer (react - react native - next - expo)<br>- ⚡ In my free time I like to explore the ai field and ai agent cration and intgrate them in my apps<br>- 🧪 currntly learning unit testing and end to end testing<br><br>🛠 Language and tools</p>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -43,14 +41,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="60" alt="supabase logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YussefMo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=YussefMo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=YussefMo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YussefMo&radius=16&theme=dracula&area=true&order=5&hide_border=false&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
