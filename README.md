@@ -35,6 +35,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://cdn.brandfetch.io/idzGRYC3u5/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667740799142" height="60" alt="Expo logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
@@ -50,6 +51,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" alt="jest logo"  />
 </div>
 
 ###
