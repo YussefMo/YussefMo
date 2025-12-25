@@ -57,10 +57,6 @@ I care about **architecture, clean state management, and real-world usability** 
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yussefMo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YussefMo&theme=dracula&area=true&hide_border=false&hide_title=true" />
 </div>
 
