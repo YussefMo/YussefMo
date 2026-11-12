@@ -1,109 +1,82 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img src="./assets/banner.svg" width="100%" alt="Youssef Mohammed — Software Engineer" />
+  <br />
+  I build SaaS products end to end — web, mobile, API, and automation.
 </div>
 
----
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/ymdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://ymdev.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&color=6C47FF&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://discord.com/users/sp_savage" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://t.me/ymdeve" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+  <a href="https://ymdev.me"><img src="https://img.shields.io/badge/PORTFOLIO-ymdev.me-8E1B2A?style=for-the-badge&labelColor=141418&logo=googlechrome&logoColor=F2F2F3" height="30" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ymdev"><img src="https://img.shields.io/badge/LINKEDIN-ymdev-8E1B2A?style=for-the-badge&labelColor=141418&logo=linkedin&logoColor=F2F2F3" height="30" alt="LinkedIn" /></a>
+  <a href="mailto:youssefmohammed12090@gmail.com"><img src="https://img.shields.io/badge/EMAIL-youssefmohammed12090%40gmail.com-8E1B2A?style=for-the-badge&labelColor=141418&logo=gmail&logoColor=F2F2F3" height="30" alt="Email" /></a>
 </div>
 
----
+<img src="./assets/rule.svg" width="100%" height="2" alt="" />
 
-<h1 align="center">Youssef Mohammed</h1>
+## About
+
+I am a software engineer who ships SaaS products end to end — the client, the mobile app, the API, and the automation around them.
+
+Most of my work is on a production dental SaaS used by real clinics: frontend architecture, a shared design system, a PDF generation pipeline, and the React Native app that mirrors the web platform. Outside work I build the other side of the stack — Node services with queues, Laravel multi-tenant APIs, and agent pipelines that run locally.
+
+I care about architecture that holds under product pressure, measurable performance, and codebases that are easier to work in six months later. Tests, type checks, and lint are gates, not suggestions.
+
+<img src="./assets/rule.svg" width="100%" height="2" alt="" />
+
+## Focus
+
+| Area | What I do |
+| --- | --- |
+| **Frontend** | React and Next.js architecture, design systems, performance work, complex state and data layers. |
+| **Mobile** | React Native and Expo apps with feature parity to web — auth, realtime data, push, deep links, store releases. |
+| **Backend** | Node and Laravel APIs, PostgreSQL and MongoDB models, queues, payments, typed contracts. |
+| **AI & Automation** | LLM features and agent workflows with deterministic checks and human approval gates. |
+
+<img src="./assets/rule.svg" width="100%" height="2" alt="" />
+
+## Selected Work
+
+| Project | Scope | Stack |
+| --- | --- | --- |
+| **Diagnosit** · private | Dental SaaS used by clinics. Re-architected the web app, built the design system and PDF pipeline, shipped the Live Patient Link, architected the mobile app. | Next.js, React Native, TypeScript, TanStack Query |
+| **AI Website Audit** · private | Full-stack SaaS: Next.js client plus an API with queued browser and Lighthouse workers, subscriptions, and quotas. | Next.js 16, Express, MongoDB, BullMQ, Playwright, Gemini |
+| **[Multi-Tenant SaaS API](https://github.com/YussefMo/multi-tenant-plog-app)** | Schema-per-tenant Laravel API with a separate owner schema, billing, generated docs, and CI. | Laravel 13, PHP 8.3, PostgreSQL, Stripe, OpenAPI 3.1 |
+| **Faceless Video Creator** · closed source | Local-first content pipeline: research, script, local voice, validated scene plan, two human gates. | n8n, llama.cpp, Remotion, Python, ffmpeg |
+| **[Portfolio](https://github.com/YussefMo/animated-portfolio)** | Personal site and project case studies with a separate admin app. | Next.js 16, Tailwind v4, GSAP, Firebase Admin |
+
+<img src="./assets/rule.svg" width="100%" height="2" alt="" />
+
+## Stack
+
+| Layer | Tools |
+| --- | --- |
+| **Languages** | `TypeScript` `JavaScript` `PHP` `SQL` `Python` |
+| **Frontend** | `React` `Next.js` `React Native` `Expo` `Tailwind CSS` `shadcn/ui` `GSAP` |
+| **Backend** | `Node.js` `Express` `Laravel` `PostgreSQL` `MongoDB` `Redis` `BullMQ` |
+| **AI & Automation** | `Gemini` `Vercel AI SDK` `n8n` `Playwright` `Lighthouse` |
+| **Tooling** | `Git` `GitHub Actions` `Vite` `Vitest` `Vercel` `Figma` |
+
+<img src="./assets/rule.svg" width="100%" height="2" alt="" />
+
+## Content
+
+I break down architecture, backend decisions, and the parts of shipping that never make it into a README.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer;React+%7C+Next.js+%7C+React+Native;Node+%7C+Laravel+%7C+PostgreSQL;AI+%26+Automation+Pipelines" />
+  <a href="https://www.youtube.com/@ymdeve"><img src="https://img.shields.io/badge/YouTube-@ymdeve-C8354A?style=for-the-badge&labelColor=0A0A0C&logo=youtube&logoColor=F2F2F3" height="32" alt="YouTube" /></a>
+  <a href="https://www.tiktok.com/@ym.deve"><img src="https://img.shields.io/badge/TikTok-@ym.deve-C8354A?style=for-the-badge&labelColor=0A0A0C&logo=tiktok&logoColor=F2F2F3" height="32" alt="TikTok" /></a>
+  <a href="https://www.instagram.com/ymdeve"><img src="https://img.shields.io/badge/Instagram-@ymdeve-C8354A?style=for-the-badge&labelColor=0A0A0C&logo=instagram&logoColor=F2F2F3" height="32" alt="Instagram" /></a>
 </div>
 
----
+<img src="./assets/rule.svg" width="100%" height="2" alt="" />
 
-### 🎬 Beyond the Code
-
-Architecture, backend decisions, and the parts of shipping that never make it into a README — on video.
+## GitHub
 
 <div align="center">
-  <a href="https://www.youtube.com/@ymdeve" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-@ymdeve-FF0033?style=for-the-badge&logo=youtube&logoColor=white" height="30" />
-  </a>
-  <a href="https://www.tiktok.com/@ym.deve" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-@ym.deve-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="30" />
-  </a>
-  <a href="https://www.instagram.com/ymdeve" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@ymdeve-E1306C?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
-  </a>
+  <img width="100%" src="./assets/contributions.svg" alt="Contribution graph for the last year" />
 </div>
 
----
-
-### 👨‍💻 About Me
-
-I'm a **Software Engineer** from **Egypt 🇪🇬** who ships SaaS products end to end — the client, the mobile app, the API, and the automation around them.
-
-Most of my work is on a production dental SaaS used by real clinics: frontend architecture, a design system, a PDF generation pipeline, and the React Native app that mirrors the web platform. Outside work I build the other side of the stack — Node services with queues, Laravel multi-tenant APIs, and agent pipelines that run locally.
-
-- 🔭 Building with **React, Next.js, React Native, Node.js, Laravel**
-- 🗄️ Comfortable in the data layer: **PostgreSQL, MongoDB, Redis, BullMQ**
-- 🧠 Focused on **architecture, performance, and maintainability**
-- 🤖 Shipping **AI features and agent workflows** with deterministic checks
-- 🧪 Treating tests, type checks, and lint as gates, not suggestions
-
-🎯 **Current direction:** product engineering with full-stack scope — building systems where the interface, the API, and the automation are designed together.
-
----
-
-### 🛠 Tech Stack
+<img src="./assets/rule.svg" width="100%" height="2" alt="" />
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,postgres,mongodb" /><br/>
-<img src="https://skillicons.dev/icons?i=redis,firebase,supabase,git,github,vercel" /><br/>
-<img src="https://skillicons.dev/icons?i=linux,figma,jest" />
-<img src="https://cdn.brandfetch.io/idzGRYC3u5/w/200/h/200/theme/dark/icon.jpeg" height="48" alt="Expo" />
-
-</div>
-
----
-
-### 🚀 Selected Work
-
-- **AI Website Audit** — full-stack SaaS. Next.js 16 client plus an Express/MongoDB API with queued Playwright + Lighthouse workers, Gemini analysis, OAuth, subscriptions, and quotas. *Private product.*
-- **[Multi-Tenant SaaS API](https://github.com/YussefMo/multi-tenant-plog-app)** — Laravel 13 / PHP 8.3 / PostgreSQL. Schema-per-tenant isolation, Stripe billing, OpenAPI 3.1 docs, and CI.
-- **[Portfolio](https://github.com/YussefMo/animated-portfolio)** — Next.js 16, Tailwind v4, GSAP + Lenis, Firebase Admin server actions. Live at [ymdev.me](https://ymdev.me).
-- **Faceless Video Creator** — closed-source, local-first pipeline: n8n orchestration, local LLM and voice, Remotion renderer, two human approval gates.
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YussefMo&theme=dracula&area=true&hide_border=false&hide_title=true" />
-</div>
-
----
-
-### 🟡 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YussefMo/YussefMo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YussefMo/YussefMo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YussefMo/YussefMo/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-<div align="center">
-  <i>“Build things that scale — in code and in impact.”</i>
+  <sub>Based in Menoufia, Egypt · Working remotely · Open to software engineering roles</sub>
 </div>
